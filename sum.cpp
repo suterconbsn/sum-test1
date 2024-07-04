@@ -1,5 +1,5 @@
 // sump.cpp
-#incldue "sum.h"
+#include "sum.h"
 
 int sum(int n){
         int res = 0;
@@ -7,7 +7,7 @@ int sum(int n){
             res+=i;
         return res;
 
-
+}
 
 
 
